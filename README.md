@@ -5,7 +5,9 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorcasarin&theme=radical&layout=compact" />
 </a>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Badge-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+          
 </div>
 
 <h3>Connect with Me </h3>
